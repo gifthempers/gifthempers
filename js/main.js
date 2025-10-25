@@ -2,7 +2,7 @@
 
 class RegistrationSystem {
   constructor() {
-    this.apiBase = 'http://test.gksoftwaretechnologies.com/api';
+    this.apiBase = 'https://test.gksoftwaretechnologies.com/api';
     this.init();
   }
 

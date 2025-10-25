@@ -2,7 +2,7 @@
 
 class AdminPanel {
   constructor() {
-    this.apiBase = 'http://test.gksoftwaretechnologies.com/api';
+    this.apiBase = 'https://test.gksoftwaretechnologies.com/api';
     this.registrations = [];
     this.filteredRegistrations = [];
     this.init();
