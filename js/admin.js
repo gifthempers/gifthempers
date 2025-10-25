@@ -2,7 +2,7 @@
 
 class AdminPanel {
   constructor() {
-    this.apiBase = 'https://gk-backend-fnz6.onrender.com/api';
+    this.apiBase = 'http://test.gksoftwaretechnologies.com/api';
     this.registrations = [];
     this.filteredRegistrations = [];
     this.init();
